@@ -1,2 +1,2 @@
-# waissya
-West African International Summer School for Young Astronomers
+# PASEA
+Pan-African School for Emerging Astronomers
